@@ -13,6 +13,8 @@ sTRASHo is a smart and easy way to delete your menu items.
 
 This plugin lets you remove menu items with drag & drop. It basically simplifies the process of deleting the menus which can be really time consuming if you have a lot of menus. sTRASHo is located in your Appearance > Menus menu.
 
+https://www.youtube.com/watch?v=swz5INhnDr4
+
 == Installation ==
 
 1. Upload the `plugin` folder to the `/wp-content/plugins` directory.
